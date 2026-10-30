@@ -1,0 +1,446 @@
+{
+ "url": "file:///tmp/zip-castelar-urban-suites-badajoz/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué suites tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 10 apartamentos de 3 tipos: Suite Arce (vistas al Parque de Castelar), Suite Árbol de Fuego (pensada para parejas, con bañera exenta en "
+    },
+    {
+     "q": "¿Qué equipamiento tienen?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Todas incluyen cocina completa, baño independiente, cama de 150 cm, salón comedor, Wi-fi de alta velocidad, TV, escritorio, ropa de cama y t"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "El check-in es a partir de las 16:00 y el check-out hasta las 12:00. Es autónomo: antes de llegar recibes un código personal para la cerradu"
+    },
+    {
+     "q": "¿Puedo llegar antes?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Según su web (leída el 30/10/2026), la entrada garantizada a las 14:00 tiene un suplemento de 20 € y la entrada a las 12:00, sujeta a dispon"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No tienen parking propio, pero hay parkings públicos muy cerca. Recomiendan el Parking Baluarte Santiago Menacho, a solo 200 m."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, según su web (leída el 30/10/2026) se aceptan mascotas de menos de 20 kg con un suplemento de 15 € por noche, sujeto a disponibilidad; c"
+    },
+    {
+     "q": "¿Alquiláis bicicletas?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, según su web (leída el 30/10/2026) hay bicicletas bajo petición por 10 € por bicicleta y día; confírmalo al reservar."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Están en la Calle Juan Antonio Cansinos Rioboo 3, en el histórico Edificio Presidente, frente al Parque de Castelar (Badajoz), a 5 minutos a"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar y ver precio y disponibilidad en su sistema online (botón Reservar), por WhatsApp, por correo a reservas@castelarurbansuites"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar y ver precio y disponibilidad en su sistema online (botón Reservar), por WhatsApp, por correo a reservas@castelarurbansuites"
+    },
+    {
+     "q": "¿Cuál es la política de cancelación?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Según su web, para reservas estándar la cancelación es gratuita hasta 14 días antes de la llegada; entre 14 y 7 días se cobra el 50 % y con "
+    },
+    {
+     "q": "¿Se puede fumar?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "No, todas las suites son espacios libres de humo."
+    },
+    {
+     "q": "¿Hay servicio de limpieza?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "En estancias cortas la suite se entrega preparada; para estancias de más de 7 noches pueden organizar servicio de limpieza (consúltalo al re"
+    },
+    {
+     "q": "¿Cómo contacto con el anfitrión virtual?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "El anfitrión virtual está disponible durante toda la estancia por WhatsApp; al confirmar la reserva recibes los datos de contacto."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 633 383 093 · reservas@castelarurbansuites.com."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 633 383 093 · reservas@castelarurbansuites.com."
+    }
+   ],
+   "chips": [
+    "¿Qué suites tenéis?",
+    "¿A qué hora es el check-in?",
+    "¿Hay parking?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "nav_rooms",
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which suites do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 10 apartments of 3 types: Arce Suite (views of Parque de Castelar), Árbol de Fuego Suite (designed for couples, with a freestandin"
+    },
+    {
+     "q": "What equipment do they have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "All include a full kitchen, separate bathroom, 150 cm bed, living-dining room, high-speed Wi-fi, TV, desk, bed linen and towels, toaster, mo"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Check-in is from 16:00 and check-out until 12:00. It is self check-in: before arrival you get a personal code for the smart lock and can ent"
+    },
+    {
+     "q": "Can I arrive early?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "According to their website (read on 30/10/2026), guaranteed entry at 14:00 has a 20 € supplement and entry at 12:00, subject to availability"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "There is no private parking, but there are public car parks very close. They recommend Parking Baluarte Santiago Menacho, just 200 m away."
+    },
+    {
+     "q": "Do you accept pets?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, according to their website (read on 30/10/2026) pets under 20 kg are accepted with a 15 € supplement per night, subject to availability"
+    },
+    {
+     "q": "Do you rent bicycles?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, according to their website (read on 30/10/2026) bicycles are available on request for 10 € per bicycle per day; confirm it when you boo"
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "They are at Calle Juan Antonio Cansinos Rioboo 3, in the historic Edificio Presidente, facing Parque de Castelar (Badajoz), a 5-minute walk "
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book and see price and availability in their online system (Book button), on WhatsApp, by email to reservas@castelarurbansuites.com "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book and see price and availability in their online system (Book button), on WhatsApp, by email to reservas@castelarurbansuites.com "
+    },
+    {
+     "q": "What is the cancellation policy?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "According to their website, for standard bookings cancellation is free up to 14 days before arrival; between 14 and 7 days 50 % is charged, "
+    },
+    {
+     "q": "Can I smoke?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "No, all suites are smoke-free."
+    },
+    {
+     "q": "Is there a cleaning service?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "For short stays the suite is handed over ready; for stays of more than 7 nights they can arrange a cleaning service (ask when booking)."
+    },
+    {
+     "q": "How do I contact the virtual host?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "The virtual host is available throughout your stay on WhatsApp; you receive the contact details when your booking is confirmed."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 633 383 093 · reservas@castelarurbansuites.com."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 633 383 093 · reservas@castelarurbansuites.com."
+    }
+   ],
+   "chips": [
+    "Which suites do you have?",
+    "What time is check-in?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "nav_rooms",
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles suites avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 10 appartements de 3 types : Suite Arce (vue sur le Parque de Castelar), Suite Árbol de Fuego (pensée pour les couples, baignoire îlo"
+    },
+    {
+     "q": "Quel est leur équipement ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Toutes comprennent cuisine complète, salle de bain indépendante, lit de 150 cm, salon-salle à manger, Wi-fi haut débit, TV, bureau, linge de"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Le check-in se fait à partir de 16:00 et le check-out jusqu’à 12:00. Il est autonome : avant l’arrivée, vous recevez un code personnel pour "
+    },
+    {
+     "q": "Puis-je arriver plus tôt ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Selon leur site (consulté le 30/10/2026), l’entrée garantie à 14:00 a un supplément de 20 € et l’entrée à 12:00, selon disponibilité, un sup"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Pas de parking privé, mais des parkings publics tout près. Ils recommandent le Parking Baluarte Santiago Menacho, à seulement 200 m."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, selon leur site (consulté le 30/10/2026), les animaux de moins de 20 kg sont acceptés avec un supplément de 15 € par nuit, selon dispon"
+    },
+    {
+     "q": "Louez-vous des vélos ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, selon leur site (consulté le 30/10/2026), des vélos sont disponibles sur demande pour 10 € par vélo et par jour ; confirmez-le lors de "
+    },
+    {
+     "q": "Où êtes-vous situés ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Elles se trouvent Calle Juan Antonio Cansinos Rioboo 3, dans l’historique Edificio Presidente, face au Parque de Castelar (Badajoz), à 5 min"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver et voir prix et disponibilité dans leur système en ligne (bouton Réserver), sur WhatsApp, par e-mail à reservas@castela"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver et voir prix et disponibilité dans leur système en ligne (bouton Réserver), sur WhatsApp, par e-mail à reservas@castela"
+    },
+    {
+     "q": "Quelle est la politique d'annulation ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Selon leur site, pour les réservations standard l’annulation est gratuite jusqu’à 14 jours avant l’arrivée ; entre 14 et 7 jours, 50 % sont "
+    },
+    {
+     "q": "Peut-on fumer ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Non, toutes les suites sont non-fumeurs."
+    },
+    {
+     "q": "Y a-t-il un service de ménage ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Pour les courts séjours, la suite est remise prête ; pour plus de 7 nuits, un service de ménage peut être organisé (à demander en réservant)"
+    },
+    {
+     "q": "Comment contacter l'hôte virtuel ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "L’hôte virtuel est disponible pendant tout le séjour sur WhatsApp ; vous recevez les coordonnées à la confirmation de la réservation."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 633 383 093 · reservas@castelarurbansuites.com."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 633 383 093 · reservas@castelarurbansuites.com."
+    }
+   ],
+   "chips": [
+    "Quelles suites avez-vous ?",
+    "À quelle heure est le check-in ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Suiten gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 10 Apartments in 3 Kategorien: Suite Arce (Blick auf den Parque de Castelar), Suite Árbol de Fuego (für Paare, mit freistehender Bad"
+    },
+    {
+     "q": "Welche Ausstattung gibt es?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Alle haben voll ausgestattete Küche, eigenes Bad, 150-cm-Bett, Wohn-Essbereich, schnelles WLAN, TV, Schreibtisch, Bettwäsche und Handtücher,"
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Check-in ab 16:00 Uhr, Check-out bis 12:00 Uhr. Der Check-in ist kontaktlos: Vor der Anreise erhalten Sie einen persönlichen Code für das Sm"
+    },
+    {
+     "q": "Kann ich früher anreisen?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Laut Website (abgerufen am 30/10/2026) kostet der garantierte Einlass um 14:00 Uhr 20 € Aufpreis und der Einlass um 12:00 Uhr, je nach Verfü"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Es gibt keinen eigenen Parkplatz, aber öffentliche Parkhäuser ganz in der Nähe. Empfohlen wird das Parking Baluarte Santiago Menacho, nur 20"
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, laut Website (abgerufen am 30/10/2026) sind Haustiere unter 20 kg gegen 15 € Aufpreis pro Nacht erlaubt, je nach Verfügbarkeit; bitte be"
+    },
+    {
+     "q": "Kann man Fahrräder mieten?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ja, laut Website (abgerufen am 30/10/2026) gibt es Fahrräder auf Anfrage für 10 € pro Fahrrad und Tag; bitte bei der Buchung bestätigen."
+    },
+    {
+     "q": "Wo liegen die Suiten?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie liegen in der Calle Juan Antonio Cansinos Rioboo 3 im historischen Edificio Presidente, gegenüber dem Parque de Castelar (Badajoz), 5 Ge"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können im Online-System (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, per WhatsApp, per E-Mail an reservas@castelarurb"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können im Online-System (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, per WhatsApp, per E-Mail an reservas@castelarurb"
+    },
+    {
+     "q": "Wie sind die Stornobedingungen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Laut Website ist die Stornierung bei Standardbuchungen bis 14 Tage vor Anreise kostenlos; zwischen 14 und 7 Tagen werden 50 % berechnet, bei"
+    },
+    {
+     "q": "Darf man rauchen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Nein, alle Suiten sind rauchfrei."
+    },
+    {
+     "q": "Gibt es einen Reinigungsservice?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Bei kurzen Aufenthalten wird die Suite fertig vorbereitet übergeben; ab mehr als 7 Nächten kann ein Reinigungsservice organisiert werden (be"
+    },
+    {
+     "q": "Wie erreiche ich den virtuellen Gastgeber?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Der virtuelle Gastgeber ist während des gesamten Aufenthalts per WhatsApp erreichbar; die Kontaktdaten erhalten Sie mit der Buchungsbestätig"
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 633 383 093 · reservas@castelarurbansuites.com."
+    },
+    {
+     "q": "Gibt es ein Fitnessstudio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 633 383 093 · reservas@castelarurbansuites.com."
+    }
+   ],
+   "chips": [
+    "Welche Suiten gibt es?",
+    "Wann ist der Check-in?",
+    "Gibt es einen Parkplatz?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
