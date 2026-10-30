@@ -1,0 +1,24 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://castelarurbansuites.com/",
+ "read_at": "2026-10-30T08:59:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://castelarurbansuites.com/",
+   "sha256": "067eaac844cf3b1755d4c525dd1755462f8e2d61eb9fa70ff3f8631e49710247",
+   "chars": 6845
+  },
+  {
+   "url": "https://castelarurbansuites.com/faq.html",
+   "sha256": "429fab2025db83f0ef5f78afc1875c7729fae6b3cd13ebcf128f124acde53c10",
+   "chars": 6510
+  }
+ ],
+ "other_pages_read": [
+  "https://castelarurbansuites.com/aviso-legal.html",
+  "https://castelarurbansuites.com/cookies.html",
+  "https://castelarurbansuites.com/index.html",
+  "https://castelarurbansuites.com/privacidad.html"
+ ]
+}
